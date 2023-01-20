@@ -1,0 +1,14 @@
+Use the following data to send the emails to emailblink (a new
+email newsletter service we subscribed to):
+
+TEST:
+https://test.emailblink.com/api/subscribe
+
+PROD:
+https://www.emailblink.com/api/subscribe
+
+data: client_id, client_secret, email_to_subcribe
+
+client_id:           pippo
+client_secret:       cGFzc3dvcmQ= 
+email_to_subscribe:  customer email
